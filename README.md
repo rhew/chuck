@@ -16,7 +16,7 @@ source .venv/bin/activate
 pip install -e .
 
 # each new shell
-source .venv/bin/xxx
+source .venv/bin/activate
 
 chuck
 ```
